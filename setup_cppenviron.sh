@@ -94,7 +94,7 @@ CXX_ENV_=cppenviron
 LDLIBS=-lstdc++
 CXXFLAGS='-std=c++14 -Wall -pedantic -Wextra -O2 -g -pthread'
 CXX=gcc
-PROG=program.exe ## nomvre del ejecutable en Windows
+PROG=program.exe ## nombre del ejecutable en Windows
 
 echo "======================================================="
 echo "Creando $CXX_ENV_ ..."
