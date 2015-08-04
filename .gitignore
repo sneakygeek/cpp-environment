@@ -4,5 +4,8 @@
 ## compiled on windows
 *.exe
 
+## generated
+cppenviron*
+
 
 

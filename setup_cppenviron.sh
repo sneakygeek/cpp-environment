@@ -1,5 +1,5 @@
 #!/bin/sh
-# file: setup_c.sh
+# file: setup_cppenviron.sh
 # author: Osmar Daniel G. Arevalo
 # Crea un entorno para correr codigo C++
 # sin necesidad de crear un archivo fuente
