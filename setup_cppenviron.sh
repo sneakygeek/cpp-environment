@@ -24,8 +24,8 @@ create_headers()
 	#ifndef CPPENVIRON_HEADERS_HPP
 	#		define CPPENVIRON_HEADERS_HPP 1L
 	#			include <iostream>
-  #			include <string>
-  #			include <sstream>
+    #			include <string>
+    #			include <sstream>
 	#			include <locale>
 	#			include <iomanip>
 	#			include <fstream>
